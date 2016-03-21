@@ -18,7 +18,7 @@ Here is what you'll need:
 
 The design is based on the Google Cardboard design, which I modified to fir the augmented reality device
 <div align="center">
-<a href="{{site.baseeurl}}/img/peppers/orig_cardborad.png"><img src="{{site.basurl}}/img/peppers/orig_cardborad.png" alt="Drawing" style="width: 47%;"/></a><a href="{{site.baseurl}}/img/peppers/my_cardboard.png"><img src="{{site.basurl}}/img/peppers/my_cardboard.png" alt="Drawing" style="width: 47%;"/> </a>
+<a href="{{site.baseurl}}/img/peppers/orig_cardborad.png"><img src="{{site.baseurl}}/img/peppers/orig_cardborad.png" alt="Drawing" style="width: 47%;"/></a><a href="{{site.baseurl}}/img/peppers/my_cardboard.png"><img src="{{site.baseurl}}/img/peppers/my_cardboard.png" alt="Drawing" style="width: 47%;"/> </a>
 </div>  
 *original Cardboard design vs. Augmented reality device*
   
