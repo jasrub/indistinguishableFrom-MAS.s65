@@ -20,7 +20,7 @@ Your browser does not support the video tag.
 	<li> cutting board, knife, fruits/vegetables</li>
 	<li> Printed image of a strawberry </li>
 	<li> 2 helpful friends</li>
-	<li> <a href="http://www.adobe.com/products/premiere.html">Adobe Primier Pro</a></li>
+	<li> <a href="http://www.adobe.com/products/premiere.html">Adobe Primeier Pro</a></li>
 </ul>
 
 <b>How it's done:</b>
