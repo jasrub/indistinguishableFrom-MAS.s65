@@ -14,7 +14,7 @@ title: Mainpage
     		<ul class="entries">
     		{% for post in site.posts %}
     		  <li>
-    		    <a href="{{site.baseurl}}/{{ post.url }}">
+    		    <a href="{{ post.url }}">
     		        <h3>{{ post.title }}</h3>
                 <div><b>{{post.description}}</b></div>
                 <!-- <span>#{{post.assignment_number}}</span> -->
