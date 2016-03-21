@@ -18,7 +18,7 @@ Here is what you'll need:
 
 The design is based on the Google Cardboard design, which I modified to fir the augmented reality device
 <div align="center">
-<a href="{{site.baseurl}}/img/peppers/orig_cardborad.png"><img src="{{site.basurl}}/img/peppers/orig_cardborad.png" alt="Drawing" style="width: 47%;"/></a><a href="{{site.basurl}}/img/peppers/my_cardboard.png"><img src="{{site.basurl}}/img/peppers/my_cardboard.png" alt="Drawing" style="width: 47%;"/> </a>
+<a href="{{site.baseeurl}}/img/peppers/orig_cardborad.png"><img src="{{site.basurl}}/img/peppers/orig_cardborad.png" alt="Drawing" style="width: 47%;"/></a><a href="{{site.baseurl}}/img/peppers/my_cardboard.png"><img src="{{site.basurl}}/img/peppers/my_cardboard.png" alt="Drawing" style="width: 47%;"/> </a>
 </div>  
 *original Cardboard design vs. Augmented reality device*
   
@@ -31,7 +31,7 @@ click [here]({{site.baseurl}}/img/peppers/cardboard_fianl_version.pdf) to get th
 
 You're almost done!
 Now just fold the cardboard, pushing flaps to matching slots.
-![folded cardboard]({{site.basurl}}/img/peppers/fold.jpg)
+![folded cardboard]({{site.baseurl}}/img/peppers/fold.jpg)
 
 
 At this point, if you are using a rubber band and not paper binders, slide the band on the top part, where the phone will sit later.
@@ -43,7 +43,7 @@ It should look like that:
 ![final_piece]({{site.baseurl}}/img/peppers/done_1.jpg)
 
 Then, just put and image or video with a black background on your phone and lay it on top of you device. Use the rubber band or paper binders to hold it so it doesn't move
-![with phone]({{site.basurl}}/img/peppers/done_2.jpg)
+![with phone]({{site.baseurl}}/img/peppers/done_2.jpg)
 
 ![trying it out]({{site.baseurl}}/img/peppers/try.jpg)
 <br/>
@@ -53,7 +53,9 @@ You have made a 0$ worth augmented reality device!!
 Not bad compared to a 3000$ [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) :)
 <br/>
 ![Augmented bird]({{site.baseurl}}/img/peppers/bird.jpg)
+
 <br/>
+
 ![Augmented flower]({{site.baseurl}}/img/peppers/flower.jpg)
   
 <br/>
