@@ -15,7 +15,7 @@ And by the artist <a href="http://www.miriamsimun.com/ghostfood/">Miriam Simun</
 
 I've decided to combine the facts I learned from the above readings with a show.
 For this magic I used 3 pairs of wooden chopsticks, 3 small plates, 1 strawberry and a knife
-![magic set up]({{site.basurl}}/img/taste/magic.jpg)
+![magic set up]({{site.baseurl}}/img/taste/magic.jpg)
 
 When showing the magic, I asked a volunteer from the audience to cut the strawberry into 3 equal pieces and put one piece in each plate.
 Than, the audience member was asked to eat the first (left most) piece of strawberry and describe it's taste.
@@ -23,4 +23,4 @@ I then did a "magic movement" above the second strawberry. Now the second piece 
 The magic performed in class did not work well as I expected (worked better when I tested this on my office mates) but the third strawberry piece did tasted a little different (according to my volunteer).
 
 The trick was adding different scents to the chopsticks. When holding the scented chopstick near the nose the smell has an effect on the way taste feels.
-![preperation]({{site.basurl}}/img/taste/prepare.jpg)
+![preperation]({{site.baseurl}}/img/taste/prepare.jpg)
