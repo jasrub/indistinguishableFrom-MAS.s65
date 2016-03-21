@@ -6,6 +6,6 @@ server: true # runs a local server
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
 permalink: none
 url: http://jasrub.github.io
-baseurl: indistinguishableFrom-MAS.s65
+baseurl: /indistinguishableFrom-MAS.s65
 sass:
     sass_dir: css/sass
