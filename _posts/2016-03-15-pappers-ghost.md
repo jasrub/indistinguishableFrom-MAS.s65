@@ -57,6 +57,19 @@ Not bad compared to a 3000$ [HoloLens](https://www.microsoft.com/microsoft-holol
 <br/>
 
 ![Augmented flower]({{site.baseurl}}/img/peppers/flower.jpg)
+
+In the $0 version, there is not yet head tracking. An interesting next step would be to write a specific app that uses the phone accelorometer and move the image according to the head movement.  
+In the mean time, the image would move with your head. Maybe this version is meant to keep your head still and watch flowers bloom in the sky like fir works, or as NovySan called if - Flower-works! :)
+
+![flower on the wall]({{site.baseurl}}/img/peppers/flower_2.jpg)
+![flower-works]({{site.baseurl}}/img/peppers/flower-works.jpg)
+<div align="center">
+<video width="100%" controls>
+  <source src="{{site.baseurl}}/img/peppers/short_version.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
   
 <br/>
 <br/>
