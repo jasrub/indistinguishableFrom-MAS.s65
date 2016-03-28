@@ -24,12 +24,12 @@ body{
 }
 @media (min-width: 600px) {
 main.container, main.content > .container{
-    width:50em;
+    width: 50em;
 }
 
 }
 main.container, main.content > .container{
-    width:100%;
+    width: auto;
 }
 
 // 1. a Font
