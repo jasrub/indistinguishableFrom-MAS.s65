@@ -1837,9 +1837,6 @@ body {
 @media (min-width: 600px) {
   main.container, main.content > .container {
     width: 50em; } }
-main.container, main.content > .container {
-  width: auto; }
-
 @font-face {
   font-family: 'Noto Serif';
   font-style: normal;
