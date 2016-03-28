@@ -22,9 +22,14 @@ Contents
 body{
     background-color: $black;
 }
-
+@media (min-width: 600px) {
 main.container, main.content > .container{
     width:50em;
+}
+
+}
+main.container, main.content > .container{
+    width:100%;
 }
 
 // 1. a Font
