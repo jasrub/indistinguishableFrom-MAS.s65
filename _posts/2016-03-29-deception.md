@@ -73,7 +73,7 @@ There is a list of things a developer can do using [Facebooks API](https://devel
   
 Lets say I want to travel the world. I'm probably about to meet a number of people, who I might not want to know what my real identity is.
 Today, a second after a new person have asked for my name, I will get a Facebook friend request. and at that moment, this person has access to my location, my friends, my history, and much more.  
-<img src="{{{{site.baseurl}}/img/deception/add_as_friend.jpg" alt="Drawing" style="width: 47%;"/>
+<img src="{{{{site.baseurl}}/img/deception/add_as_friend.jpg" alt="Drawing" style="width: 30%;"/>
   
 But what if we can automatically generate a fake identity?
 By scanning my Facebook profile, and creating a new fake profile, with a new name, a new address, new job, new friends and new images.
