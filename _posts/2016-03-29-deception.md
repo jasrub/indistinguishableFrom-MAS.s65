@@ -17,10 +17,10 @@ Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) a
 Imagine I want to go on a vacation, and I want to be off-line. I also don't want the rest of the world to know that I've gone on vacation. I want the rest of the world to think "business as usual"
 
 ![vacation]({{site.baseurl}}/img/deception/Tropical-Vacation.jpg) 
-* Where I am *
+*Where I am*
 
 ![work]({{site.baseurl}}/img/deception/work.jpg) 
-* Where I want the world to think I am *
+*Where I want the world to think I am*
 
 There is a list of things a developer can do using [Facebooks API](https://developers.facebook.com/docs/graph-api/common-scenarios):  
 
@@ -37,13 +37,13 @@ The tool receives access to my Facebook account. It initially scans all the post
 Now, I select a location I want people to think I’m in, and a mood they want me to think I’m in.
 
 The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me on them.  
-![random phrases from the web]({{site.baseurl}}/img/deception/smart_phrases.png) 
+![random phrases from the web]({{site.baseurl}}/img/deception/smart_phrases.png)  
 *random phrases from the web*
 
-![uploading a smart status]({{site.baseurl}}/img/deception/status.png) 
+![uploading a smart status]({{site.baseurl}}/img/deception/status.png)     
 *uploading a smart status*
 
-![uploading an image of my work location]({{site.baseurl}}/img/deception/posting_photo.png) 
+![uploading an image of my work location]({{site.baseurl}}/img/deception/posting_photo.png)   
 *uploading an image of my work location*
 
 It sources interesting citations and uploads them randomly as my posts.
@@ -54,7 +54,7 @@ So, while I can be somewhere completely different. The whole world might think I
 
 <br/>
 <br/>
---- 
+<hr>
 
 ###### F-Alter Ego  
 
@@ -78,7 +78,7 @@ Engines for finding the similar people to you already easily available to the pu
 
 <br/>
 <br/>
----
+<hr>
 
 ###### Flooding the web with images that are not you.
 Using image processing algorithms, and the endless images of faces that are available online, we can simply make all our images "disappear".
