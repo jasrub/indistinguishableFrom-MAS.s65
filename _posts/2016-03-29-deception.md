@@ -11,7 +11,14 @@ Can we use this property to deceive the world, hiding our real life and real int
 
 **Yes, We can.**
 
-Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) and some machine learning (NLP and image processing) Algorithms, I thought of 3 different deceptions that would be quite simple to create:
+Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) and some machine learning (NLP and image processing) Algorithms, I thought of 3 different deceptions that would be quite simple to create.  
+  
+I call them:
+* ITO-OOO - Staying socially active when you are not.
+* F-Alter Ego - Fooling other about you identity.
+* tele-photo-porter - Flooding the web with images that are not you.  
+  
+<hr>
 
 ###### The ITO-OOO (In The Office - Out Of Office)
 Imagine that I want to go on a vacation, and I want to be off-line. I also don't want the rest of the world to know that I've gone on vacation. I want the rest of the world to think "business as usual"
@@ -86,7 +93,7 @@ Engines for finding the similar people to you already easily available to the pu
 <br/>
 <hr>
 
-###### Flooding the web with images that are not you.
+###### The tele-photo-porter
 Using image processing algorithms, and the endless images of faces that are available online, we can simply make all our images "disappear".
 Of course, I can not just remove content from websites which are not mine. So, what can we do if our pictures are wandering around in the world? We can flood the web with so many fake pictures, so the real images will not be seen anymore.
 
