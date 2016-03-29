@@ -1837,6 +1837,12 @@ body {
 @media (min-width: 600px) {
   main.container, main.content > .container {
     width: 50em; } }
+@media screen and (max-width: 800px) {
+  main.container, main.content > .container {
+    max-width: -webkit-calc(800px - (50px));
+    max-width: calc(800px - (50px));
+    padding-right: 15px;
+    padding-left: 15px; } }
 @font-face {
   font-family: 'Noto Serif';
   font-style: normal;
@@ -2020,3 +2026,5 @@ footer .container {
 
   tr {
     page-break-inside: avoid; } }
+
+/*# sourceMappingURL=style.css.map */
