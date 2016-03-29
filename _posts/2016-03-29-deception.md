@@ -11,10 +11,10 @@ Can we use this property to deceive the world, hiding our real life and real int
 
 **Yes, We can.**
 
-Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) and some machine learning (NLP and image processing) Algorithms, I thought of 3 different deception that would be quiet simple to create:
+Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) and some machine learning (NLP and image processing) Algorithms, I thought of 3 different deceptions that would be quite simple to create:
 
-###### The Virtual Life Creator
-Imagine I want to go on a vacation, and I want to be off-line. I also don't want the rest of the world to know that I've gone on vacation. I want the rest of the world to think "business as usual"
+###### The OOO-ITO (Out Of Office - In The Office)
+Imagine that I want to go on a vacation, and I want to be off-line. I also don't want the rest of the world to know that I've gone on vacation. I want the rest of the world to think "business as usual"
 
 ![vacation]({{site.baseurl}}/img/deception/Tropical-Vacation.jpg) 
 *Where I am*
@@ -24,21 +24,21 @@ Imagine I want to go on a vacation, and I want to be off-line. I also don't want
 
 There is a list of things a developer can do using [Facebooks API](https://developers.facebook.com/docs/graph-api/common-scenarios):  
 
-* Publishing new Status Updates  
-* Uploading Photos, Videos and Creating Photo Albums  
-* Sharing Links  
-* Responding to Events  
+* Publish new Status Updates  
+* Upload Photos, Videos and Create Photo Albums  
+* Share Links  
+* Respond to Events  
 
 ![facebook's API posting status]({{site.baseurl}}/img/deception/facebook_api.png) 
 
 
-These make my vacation hide out really easy, with the Virtual Life Creator:  
+These make my vacation hide out really easy, with the OOO-ITO:  
 The tool receives access to my Facebook account. It initially scans all the posts I wrote in the last 2 years. and the different images I uploaded. During the scan, the tool detects the frequency in which I post on Facebook and the type of interactions I usually post.
-Now, I select a location I want people to think I’m in, and a mood they want me to think I’m in.
+Now, I select a location I want people to think I’m in.
 
-The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me on them.   
+The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me to them.   
   
-   
+
 ![random phrases from the web]({{site.baseurl}}/img/deception/smart_phrases.png)  
 *random phrases from the web*
   
