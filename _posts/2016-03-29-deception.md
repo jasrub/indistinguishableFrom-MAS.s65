@@ -13,7 +13,8 @@ Can we use this property to deceive the world, hiding our real life and real int
 
 Using the [Facebook Graph API](https://developers.facebook.com/docs/graph-api) and some machine learning (NLP and image processing) Algorithms, I thought of 3 different deceptions that would be quite simple to create.  
   
-I call them:
+I call them:  
+
 * ITO-OOO - Staying socially active when you are not.
 * F-Alter Ego - Fooling other about you identity.
 * tele-photo-porter - Flooding the web with images that are not you.  
