@@ -36,12 +36,18 @@ These make my vacation hide out really easy, with the Virtual Life Creator:
 The tool receives access to my Facebook account. It initially scans all the posts I wrote in the last 2 years. and the different images I uploaded. During the scan, the tool detects the frequency in which I post on Facebook and the type of interactions I usually post.
 Now, I select a location I want people to think I’m in, and a mood they want me to think I’m in.
 
-The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me on them.  
+The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me on them.   
+  
+   
 ![random phrases from the web]({{site.baseurl}}/img/deception/smart_phrases.png)  
 *random phrases from the web*
+  
 
+    
 ![uploading a smart status]({{site.baseurl}}/img/deception/status.png)     
 *uploading a smart status*
+  
+  
 
 ![uploading an image of my work location]({{site.baseurl}}/img/deception/posting_photo.png)   
 *uploading an image of my work location*
