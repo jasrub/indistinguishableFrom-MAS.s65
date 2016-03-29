@@ -1834,21 +1834,21 @@ Contents
 body {
   background-color: #000; }
 
-@media (min-width: 600px) {
+@media (min-width: 700px) {
   main.container, main.content > .container {
-    width: 50em; } }
+    width: 50em; }
+
+  .content h2 {
+    font-size: 5em; }
+
+  .post h2 {
+    padding: 1.5em 0 0.5em; } }
 @media screen and (max-width: 800px) {
   main.container, main.content > .container {
     max-width: -webkit-calc(800px - (50px));
     max-width: calc(800px - (50px));
     padding-right: 15px;
-    padding-left: 15px; }
-
-  .content h2 {
-    font-size: 4em; }
-
-  .post h2 {
-    padding: 2.5em 0 1em; } }
+    padding-left: 15px; } }
 @font-face {
   font-family: 'Noto Serif';
   font-style: normal;
@@ -1884,7 +1884,7 @@ body {
 
 .content h2 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 5em;
+  font-size: 4em;
   margin-top: 1em;
   border-bottom: 1px solid #222;
   padding-bottom: 0.6em;
@@ -1966,8 +1966,8 @@ body {
   letter-spacing: 0.6em; }
 .post h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 5em;
-  padding: 1.5em 0 0.5em;
+  font-size: 4em;
+  padding: 2.5em 0 1em;
   letter-spacing: 0.05em; }
 .post section {
   font-family: 'Noto Serif';
