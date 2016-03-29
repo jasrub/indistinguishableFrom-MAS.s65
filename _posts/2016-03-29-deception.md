@@ -29,7 +29,7 @@ There is a list of things a developer can do using [Facebooks API](https://devel
 * Sharing Links  
 * Responding to Events  
 
-![facebook's API posting status]({{site.baseurl}}/img/deception/facebook_api.jpg) 
+![facebook's API posting status]({{site.baseurl}}/img/deception/facebook_api.png) 
 
 
 These make my vacation hide out really easy, with the Virtual Life Creator:  
@@ -38,13 +38,13 @@ Now, I select a location I want people to think I’m in, and a mood they want m
 
 The tool now manages my Facebook account. It sources images from around the web that are taken in my desired location, and adds me on them.  
 ![random phrases from the web]({{site.baseurl}}/img/deception/smart_phrases.png) 
-* random phrases from the web*
+*random phrases from the web*
 
 ![uploading a smart status]({{site.baseurl}}/img/deception/status.png) 
-* uploading a smart status *
+*uploading a smart status*
 
 ![uploading an image of my work location]({{site.baseurl}}/img/deception/posting_photo.png) 
-* uploading an image of my work location *
+*uploading an image of my work location*
 
 It sources interesting citations and uploads them randomly as my posts.
 It “Likes” posts of friends I previously liked, and it randomly comments a general “Awesome” or a smiley to popular posts on my feed.  
@@ -54,7 +54,7 @@ So, while I can be somewhere completely different. The whole world might think I
 
 <br/>
 <br/>
-* * *  
+--- 
 
 ###### F-Alter Ego  
 
@@ -78,7 +78,7 @@ Engines for finding the similar people to you already easily available to the pu
 
 <br/>
 <br/>
-* * *  
+---
 
 ###### Flooding the web with images that are not you.
 Using image processing algorithms, and the endless images of faces that are available online, we can simply make all our images "disappear".
