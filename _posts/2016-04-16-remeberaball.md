@@ -8,11 +8,13 @@ assignment_number: 6
 This Week's assignment was: Pick a spell from the AD&D Player's Handbook (any edition), other fantasy role playing game, or from fantasy literature or mythology, and make it real.
 
 I've decided to make a Harry Potter Remembeall  
-<b>
-'It's a Remembrall!' he [Neville] explained. 'Gran knows I forget things – this tells you if there's something you've forgotten to do. Look, you hold it tight like this and if it turns red – oh…' His face fell, because the Remembrall had suddenly glowed scarlet, '… you've forgotten something…' 
-</b>
-(From Harry Potter and the Philosopher’s Stone, Chapter Nine)
 
+** 'It's a Remembrall!' he [Neville] explained. 'Gran knows I forget things – this tells you if there's something you've forgotten to do. Look, you hold it tight like this and if it turns red – oh…' His face fell, because the Remembrall had suddenly glowed scarlet, '… you've forgotten something…' 
+**  
+
+(From Harry Potter and the Philosopher’s Stone, Chapter Nine)
+  
+  
 A Remembrall is a tennis ball-sized glass ball that contains smoke that turns red when its owner has forgotten something. It turns clear once whatever was forgotten is remembered.
 
 <div align="center">
@@ -22,8 +24,11 @@ A Remembrall is a tennis ball-sized glass ball that contains smoke that turns re
 Your browser does not support the video tag.
 </video>
 </div>
+  
+  
 
-### How I'ts done.
+### How I'ts Done:  
+
 
 With Tal's advice, I got a [Light Blue Bean](https://punchthrough.com/bean), it's a tiny size BLE dev board. 30$ worth.
 ![the Light Blue Bean]({{site.baseurl}}/img/rememberaball/light_blue_bean.png)
@@ -35,7 +40,7 @@ And soldered a strip of 5 Neopixels(https://www.adafruit.com/category/168) to it
 
 Then, I programed the board to only blink the Neopixels when there is no Bluetooth connection. which means, whenever it is far enough from a chosen device to be connected, it will blink.
 
-`
+<code>
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
   #include <avr/power.h>
@@ -82,7 +87,8 @@ void loop()
     
   }
    Bean.sleep(100);  
-}`
+}
+</code>
 
 I then just covered the Light blue bean with a plastic bag, to give it a smoke effect, and put it inside the clear ball.
 
