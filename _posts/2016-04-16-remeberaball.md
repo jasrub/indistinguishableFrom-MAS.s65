@@ -9,7 +9,7 @@ This Week's assignment was: Pick a spell from the AD&D Player's Handbook (any ed
 
 I've decided to make a Harry Potter Remembeall  
 
-**'It's a Remembrall!' he [Neville] explained. 'Gran knows I forget things – this tells you if there's something you've forgotten to do. Look, you hold it tight like this and if it turns red – oh…' His face fell, because the Remembrall had suddenly glowed scarlet, '… you've forgotten something…'**  
+***'It's a Remembrall!' he [Neville] explained. 'Gran knows I forget things – this tells you if there's something you've forgotten to do. Look, you hold it tight like this and if it turns red – oh…' His face fell, because the Remembrall had suddenly glowed scarlet, '... you've forgotten something...'***  
 
 (From Harry Potter and the Philosopher’s Stone, Chapter Nine)
   
@@ -26,7 +26,7 @@ Your browser does not support the video tag.
   
   
 
-### How I'ts Done:  
+### How It's Done:  
 
 
 With Tal's advice, I got a [Light Blue Bean](https://punchthrough.com/bean), it's a tiny size BLE dev board. 30$ worth.
@@ -92,4 +92,4 @@ void loop()
 I then just covered the Light blue bean with a plastic bag, to give it a smoke effect, and put it inside the clear ball.
 
 ![rememberaball]({{site.baseurl}}/img/rememberaball/ball.jpg)
-![rememberaball]({{site.baseurl}}/img/rememberaball/remeberaball.jpg)
+![rememberaball]({{site.baseurl}}/img/rememberaball/rememberaball.jpg)
