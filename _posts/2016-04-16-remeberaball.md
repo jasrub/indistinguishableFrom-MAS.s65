@@ -92,4 +92,7 @@ void loop()
 I then just covered the Light blue bean with a plastic bag, to give it a smoke effect, and put it inside the clear ball.
 
 ![rememberaball]({{site.baseurl}}/img/rememberaball/ball.jpg)
+  
+  
+
 ![rememberaball]({{site.baseurl}}/img/rememberaball/rememberaball.jpg)
