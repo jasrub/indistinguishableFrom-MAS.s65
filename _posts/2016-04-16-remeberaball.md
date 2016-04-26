@@ -33,7 +33,7 @@ With Tal's advice, I got a [Light Blue Bean](https://punchthrough.com/bean), it'
 ![the Light Blue Bean]({{site.baseurl}}/img/rememberaball/light_blue_bean.png)
 
 I cut the board, to fit it into a small clear ornament ball.
-And soldered a strip of 5 Neopixels(https://www.adafruit.com/category/168) to it.
+And soldered a strip of 5 [Neopixels](https://www.adafruit.com/category/168) to it.
 
 ![preparing the board]({{site.baseurl}}/img/rememberaball/bean_cut.jpg)  ![preparing the board]({{site.baseurl}}/img/rememberaball/bean_neopixels.jpg)
 
