@@ -1964,6 +1964,16 @@ body {
   text-transform: uppercase;
   font-weight: normal;
   letter-spacing: 0.6em; }
+.post h3 {
+  font-family: 'Noto Serif';
+  line-height: 2em;
+  font-size: 1.8em;
+  font-weight: bold; }
+.post h4 {
+  font-family: 'Noto Serif';
+  line-height: 2em;
+  font-size: 1.5em;
+  font-weight: bold; }
 .post h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 4em;
@@ -2032,5 +2042,3 @@ footer .container {
 
   tr {
     page-break-inside: avoid; } }
-
-/*# sourceMappingURL=style.css.map */
