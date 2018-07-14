@@ -23,7 +23,7 @@ The design is based on the Google Cardboard design, which I modified to fir the 
 *original Cardboard design vs. Augmented reality device*
   
 
-click [here]({{site.baseurl}}/img/peppers/cardboard_fianl_version.pdf) to get the file for laser cutting. Cut out the bigger piece from cardboard and the smaller piece from clear acrylic. The red lines are half cuts (for folding). Green and black lines are through cuts.
+click [here]({{site.baseurl}}/img/peppers/cardboard_final_version.pdf) to get the file for laser cutting. Cut out the bigger piece from cardboard and the smaller piece from clear acrylic. The red lines are half cuts (for folding). Green and black lines are through cuts.
 
 
 ![laser cutting]({{site.baseurl}}/img/peppers/laser_cut.jpg)
